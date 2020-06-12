@@ -1,0 +1,6 @@
+.menu {
+    height: 2126px;
+    padding: 40px 0px;
+    background: url(--background-color-one);
+    color: var(--text-color);
+}
